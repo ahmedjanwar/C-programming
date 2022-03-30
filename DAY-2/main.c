@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "header.h"
-
+// this project handles the scores of an exam from txt file
 int main()
 {
     FILE* filePointer;
