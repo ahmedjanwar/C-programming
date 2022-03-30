@@ -1,5 +1,5 @@
 #pragma once
-
+//we have only one constatnt defination in this header
 #define MAX 50
 enum COLORS {RED = 31, GREEN, YELLOW, BLUE, MAGENTA, CYAN};
 
